@@ -1,7 +1,12 @@
 [
 	{
-		"url":"https://github.com/frappe/erpnext",
+		"url":"https://github.com/akshay83/erpnext",
 		"name":"erpnext",
-		"branch": "v5.0"
+		"branch": "fixed_asset"
+	},
+	{
+		"url":"https://github.com/frappe/shopping-cart",
+		"name":"shopping_cart",
+		"branch": "master"
 	}
 ]
